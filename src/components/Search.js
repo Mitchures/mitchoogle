@@ -25,7 +25,7 @@ function Search({ hideButtons }) {
   };
 
   return (
-    <form className="search">
+    <form className="search" onSubmit={search}>
       <div className="search__input">
         <SearchIcon className="search__inputIcon" />
         <input value={input} onChange={e => setInput(e.target.value)} />
