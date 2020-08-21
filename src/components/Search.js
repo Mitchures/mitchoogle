@@ -31,16 +31,22 @@ function Search({ hideButtons }) {
         <input value={input} onChange={e => setInput(e.target.value)} />
         <MicIcon/>
       </div>
-      {!hideButtons && (
+      {!hideButtons ? (
+        <div className="search__buttons">
+          <Button type="submit" onClick={search} variant="outlined">Google Search</Button>
+          <Button variant="outlined">I'm Feeling Lucky</Button>
+        </div>
+      ) : (
         <div className="search__buttons">
           <Button
             type="submit"
             onClick={search}
             variant="outlined"
+            className="search__buttonsHidden"
           >
             Google Search
           </Button>
-          <Button variant="outlined">I'm Feeling Lucky</Button>
+          <Button variant="outlined" className="search__buttonsHidden">I'm Feeling Lucky</Button>
         </div>
       )}
     </form>

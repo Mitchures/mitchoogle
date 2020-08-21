@@ -54,7 +54,6 @@
   display: flex;
   align-items: center;
   color: gray;
-  margin-top: 1.5rem;
 }
 
 @media (max-width: 48rem) {
