@@ -90,7 +90,7 @@ function SearchPage() {
                 />
               )}
               <div className="searchPage__resultContainer">
-                <a href={item.link}>
+                <a className="searchPage__resultTopLink" href={item.link}>
                   {item.displayLink}
                 </a>
                 <a className="searchPage__resultTitle" href={item.link}>
