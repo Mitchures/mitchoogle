@@ -3,7 +3,7 @@ import './SearchPage.css';
 import {useStateValue} from '../StateProvider';
 import useGoogleSearch from '../useGoogleSearch';
 import { Link } from 'react-router-dom';
-import logo from '../images/mitchoogle.png';
+import logo from '../images/mitchoogle.svg';
 import Search from '../components/Search';
 import SearchIcon from '@material-ui/icons/Search';
 import DescriptionIcon from '@material-ui/icons/Description';
