@@ -1,0 +1,691 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Anime",
+        "totalResults": "2230000000",
+        "searchTerms": "Anime",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "7221217356ff3cfcd"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Anime",
+        "totalResults": "2230000000",
+        "searchTerms": "Anime",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "7221217356ff3cfcd"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google"
+  },
+  "searchInformation": {
+    "searchTime": 0.392006,
+    "formattedSearchTime": "0.39",
+    "totalResults": "2230000000",
+    "formattedTotalResults": "2,230,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Anime - Wikipedia",
+      "htmlTitle": "\u003cb\u003eAnime\u003c/b\u003e - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Anime",
+      "displayLink": "en.wikipedia.org",
+      "snippet": "Anime sometimes called Japanimation, is hand-drawn and computer animation \noriginating from Japan. The term anime is derived from the English word ...",
+      "htmlSnippet": "\u003cb\u003eAnime\u003c/b\u003e sometimes called Japanimation, is hand-drawn and computer animation \u003cbr\u003e\noriginating from Japan. The term \u003cb\u003eanime\u003c/b\u003e is derived from the English word&nbsp;...",
+      "cacheId": "US-UIewrFroJ",
+      "formattedUrl": "https://en.wikipedia.org/wiki/Anime",
+      "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eAnime\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTDdC9e-4u6fMPkaGbkYUh_AOW3VpU8CtGWyCbk_ozGlv0VDHDDEAVKls3c",
+            "width": "238",
+            "height": "212"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Anime_eye.svg/1200px-Anime_eye.svg.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Anime_eye.svg/1200px-Anime_eye.svg.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Anime News Network",
+      "htmlTitle": "\u003cb\u003eAnime\u003c/b\u003e News Network",
+      "link": "https://www.animenewsnetwork.com/",
+      "displayLink": "www.animenewsnetwork.com",
+      "snippet": "Netflix announced on Wednesday that it will stream the second part of the \nongoing television anime Pokémon Journeys: The Series on September 11. \nPokémon ...",
+      "htmlSnippet": "Netflix announced on Wednesday that it will stream the second part of the \u003cbr\u003e\nongoing television \u003cb\u003eanime\u003c/b\u003e Pokémon Journeys: The Series on September 11. \u003cbr\u003e\nPokémon&nbsp;...",
+      "cacheId": "1g8sR9Z3c8MJ",
+      "formattedUrl": "https://www.animenewsnetwork.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eanime\u003c/b\u003enewsnetwork.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSETAom7J5iorJEFOwEsscgTKCr35dijkeaAE70zFtwxUYdmrD6iBMJeG4N",
+            "width": "360",
+            "height": "140"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "always",
+            "handheldfriendly": "true",
+            "viewport": "width=device-width,initial-scale=1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.animenewsnetwork.com/thumbnails/crop900x350gGL/cms/news.3/163093/gintama_tsr_poster_fix.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Anime | Netflix Official Site",
+      "htmlTitle": "\u003cb\u003eAnime\u003c/b\u003e | Netflix Official Site",
+      "link": "https://www.netflix.com/browse/genre/7424",
+      "displayLink": "www.netflix.com",
+      "snippet": "Action-packed adventures, offbeat comedies, inspirational stories -- these anime \nmovies and TV shows have a style and spirit unlike anything else.",
+      "htmlSnippet": "Action-packed adventures, offbeat comedies, inspirational stories -- these \u003cb\u003eanime\u003c/b\u003e \u003cbr\u003e\nmovies and TV shows have a style and spirit unlike anything else.",
+      "cacheId": "cvx_WhxsK8MJ",
+      "formattedUrl": "https://www.netflix.com/browse/genre/7424",
+      "htmlFormattedUrl": "https://www.netflix.com/browse/genre/7424",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZNWgwldS0HShFTxWZtHXHjM_zdHGx-0lR_UNj6qLoiYclNB4UcEUIggM",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://assets.nflxext.com/ffe/siteui/vlv3/d49b6ea4-5a64-4996-a004-9d4d4f32839a/21515da9-d9b4-4702-8393-6cfcca6ee297/US-en-20200817-popsignuptwoweeks-perspective_alpha_website_small.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:site": "@netflix",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0",
+            "og:title": "Anime",
+            "og:description": "Action-packed adventures, offbeat comedies, inspirational stories -- these anime movies and TV shows have a style and spirit unlike anything else."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://occ-0-92-1722.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZJyU-dmyjMwhOyny8FM2_IJhJ78hdOOzKF2-V5olOgAVThB329SE3aLduNbalaInaWdGZYRP70wk8w7ClwTH_xYfsg.jpg?r=3ac"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Anime Expo | Los Angeles Anime Convention",
+      "htmlTitle": "\u003cb\u003eAnime\u003c/b\u003e Expo | Los Angeles \u003cb\u003eAnime\u003c/b\u003e Convention",
+      "link": "https://www.anime-expo.org/",
+      "displayLink": "www.anime-expo.org",
+      "snippet": "Anime Expo is the largest celebration of Japanese pop culture in North America! \nJoin us in downtown Los Angeles on July 2-5, 2021!",
+      "htmlSnippet": "\u003cb\u003eAnime\u003c/b\u003e Expo is the largest celebration of Japanese pop culture in North America! \u003cbr\u003e\nJoin us in downtown Los Angeles on July 2-5, 2021!",
+      "cacheId": "aZwoxx0_pZwJ",
+      "formattedUrl": "https://www.anime-expo.org/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eanime\u003c/b\u003e-expo.org/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "website",
+            "twitter:card": "summary",
+            "twitter:title": "Anime Expo | Los Angeles Anime Convention",
+            "og:site_name": "Anime Expo",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=0",
+            "twitter:description": "Anime Expo is the largest celebration of Japanese pop culture in North America! Join us in downtown Los Angeles on July 2-5, 2021!",
+            "og:title": "Anime Expo | Los Angeles Anime Convention",
+            "og:locale": "en_US",
+            "og:url": "https://www.anime-expo.org/",
+            "msapplication-tileimage": "https://www.anime-expo.org/wp-content/uploads/2017/08/cropped-Anime-Expo-Logo-270x270.jpg",
+            "og:description": "Anime Expo is the largest celebration of Japanese pop culture in North America! Join us in downtown Los Angeles on July 2-5, 2021!"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Free Anime Streaming Online - Watch on Crunchyroll",
+      "htmlTitle": "Free \u003cb\u003eAnime\u003c/b\u003e Streaming Online - Watch on Crunchyroll",
+      "link": "https://www.crunchyroll.com/videos/anime",
+      "displayLink": "www.crunchyroll.com",
+      "snippet": "Watch the best anime from Crunchyroll online and stream episodes of Bleach, \nNaruto, Dragon Ball Super, Attack on Titan, Hunter x Hunter, Fairy Tail, and more.",
+      "htmlSnippet": "Watch the best \u003cb\u003eanime\u003c/b\u003e from Crunchyroll online and stream episodes of Bleach, \u003cbr\u003e\nNaruto, Dragon Ball Super, Attack on Titan, Hunter x Hunter, Fairy Tail, and more.",
+      "cacheId": "pwWlX9VZM7AJ",
+      "formattedUrl": "https://www.crunchyroll.com/videos/anime",
+      "htmlFormattedUrl": "https://www.crunchyroll.com/videos/\u003cb\u003eanime\u003c/b\u003e",
+      "pagemap": {
+        "tvseries": [
+          {
+            "name": "One Piece",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/8056a82e973dde98ebb82abd39dc69731564519729_thumb.jpg",
+            "url": "One Piece 1150 Videos"
+          },
+          {
+            "name": "Black Clover",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/1a39d39cbe3346cce5e44577cbb895041579741401_thumb.jpg",
+            "url": "Black Clover 140 Videos"
+          },
+          {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/b83caa7d52b1a053830ee3061d736c741594318665_thumb.jpg",
+            "url": "Re:ZERO -Starting Life in Another World- 123 Videos"
+          },
+          {
+            "name": "BORUTO: NARUTO NEXT GENERATIONS",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/2c9d74492778613657e9bdfe38214f851588360723_thumb.jpg",
+            "url": "BORUTO: NARUTO NEXT GENERATIONS 161 Videos"
+          },
+          {
+            "name": "Naruto Shippuden",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/1c1df98707aa0f22aa54342af725e48a1491245343_thumb.jpg",
+            "url": "Naruto Shippuden 500 Videos"
+          },
+          {
+            "name": "The God of High School",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/7b0b1d0858c0aeaad7fbb264b91f634e1593645590_thumb.jpg",
+            "url": "The God of High School 8 Videos"
+          },
+          {
+            "name": "Food Wars! Shokugeki no Soma",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/9f9d3ec824444991d22082852cdc3c741586972680_thumb.jpg",
+            "url": "Food Wars! Shokugeki no Soma 81 Videos"
+          },
+          {
+            "name": "Sword Art Online",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/7d3070bc3f5e32a8187ceea7445013301594706429_thumb.jpg",
+            "url": "Sword Art Online 173 Videos"
+          },
+          {
+            "name": "Haikyu!!",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/a9c1f36167964b81371db1bde94087861580166621_thumb.jpg",
+            "url": "Haikyu!! 78 Videos"
+          },
+          {
+            "name": "Hunter x Hunter",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/cbb55a6382682bf71e91f685c6473c5a1487736090_thumb.jpg",
+            "url": "Hunter x Hunter 148 Videos"
+          },
+          {
+            "name": "Fire Force",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/aab5d51e5e199851554d3910b2ecdff21594706748_thumb.jpg",
+            "url": "Fire Force 31 Videos"
+          },
+          {
+            "name": "Ahiru no Sora",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/c202f485b6c4a286e8867bb9bbb782361585936040_thumb.jpg",
+            "url": "Ahiru no Sora 44 Videos"
+          },
+          {
+            "name": "JoJo's Bizarre Adventure",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/04b29833ccaaf2ee6bda1d08f2f02ecf1539039197_thumb.jpg",
+            "url": "JoJo's Bizarre Adventure 158 Videos"
+          },
+          {
+            "name": "The Misfit of Demon King Academy",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire1/5e7c78eaa93f2aa5cf7ef7d98ed9a20b1593621817_thumb.jpg",
+            "url": "The Misfit of Demon King Academy 7 Videos"
+          },
+          {
+            "name": "That Time I Got Reincarnated as a Slime",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/15a59c8efa8ea6cccb53fff530c2f1921548272848_thumb.jpg",
+            "url": "That Time I Got Reincarnated as a Slime 41 Videos"
+          },
+          {
+            "name": "My Hero Academia",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/cccce22d1dfaaf713284a617ee0b539a1572467883_thumb.jpg",
+            "url": "My Hero Academia 91 Videos"
+          },
+          {
+            "name": "GIBIATE",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/7fac94c2cef636c82df61d46a0b46b4f1594720017_thumb.jpg",
+            "url": "GIBIATE 6 Videos"
+          },
+          {
+            "name": "Tower of God",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire1/fa0713e8265fb81ad6c801e1148b4c9d1585603263_thumb.jpg",
+            "url": "Tower of God 26 Videos"
+          },
+          {
+            "name": "Attack on Titan",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire1/13b484b48acc14537703fbc505b087121558560482_thumb.jpg",
+            "url": "Attack on Titan 61 Videos"
+          },
+          {
+            "name": "Naruto",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/0145388e3ecfdb5a63ce1e9feaeef44a1279141923_thumb.jpg",
+            "url": "Naruto 220 Videos"
+          },
+          {
+            "name": "Rent-a-Girlfriend",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/48745446a6a648a022818879ee8820d71594363087_thumb.jpg",
+            "url": "Rent-a-Girlfriend 6 Videos"
+          },
+          {
+            "name": "Bleach",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/52edb7a843abacb4ff0f642c8eda14401325114125_thumb.jpg",
+            "url": "Bleach 366 Videos"
+          },
+          {
+            "name": "Monster Girl Doctor",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/a5c0ebd2e72c71fe07a99341f90668f51593821617_thumb.jpg",
+            "url": "Monster Girl Doctor 7 Videos"
+          },
+          {
+            "name": "Fruits Basket",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/113723dbe198372b4cbede38898083991554421405_thumb.jpg",
+            "url": "Fruits Basket 45 Videos"
+          },
+          {
+            "name": "Demon Slayer: Kimetsu no Yaiba",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/f1fe5c7a43cb2f38f4152a58f89479821554508873_thumb.jpg",
+            "url": "Demon Slayer: Kimetsu no Yaiba 26 Videos"
+          },
+          {
+            "name": "GOBLIN SLAYER",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/0b07451e9b20be6c024833a762a2e6a81538837010_thumb.jpg",
+            "url": "GOBLIN SLAYER 14 Videos"
+          },
+          {
+            "name": "My Teen Romantic Comedy SNAFU",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire1/85e8511125fe1704bd2f2741e66c329b1594706247_thumb.jpg",
+            "url": "My Teen Romantic Comedy SNAFU 33 Videos"
+          },
+          {
+            "name": "The Rising of the Shield Hero",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/25627becf63b169d19af7efee6122e791555537428_thumb.jpg",
+            "url": "The Rising of the Shield Hero 61 Videos"
+          },
+          {
+            "name": "The 8th son? Are you kidding me?",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire1/6828977583742041eec444853e3cc71e1585803207_thumb.jpg",
+            "url": "The 8th son? Are you kidding me? 24 Videos"
+          },
+          {
+            "name": "DARLING in the FRANXX",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/e8e3c09f8450c3d8a90a03e2198688f61515484130_thumb.jpg",
+            "url": "DARLING in the FRANXX 120 Videos"
+          },
+          {
+            "name": "Dr. STONE",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/cd61320a82ff1c1ff30f08f464a97f3f1571635066_thumb.jpg",
+            "url": "Dr. STONE 37 Videos"
+          },
+          {
+            "name": "Fairy Tail",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/f4ca1a545a471a9ce6e43eef8e8d72541539734102_thumb.jpg",
+            "url": "Fairy Tail 329 Videos"
+          },
+          {
+            "name": "Dragon Ball Super",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/98ea4207e23a2ea3e3af39ad641d88001533322009_thumb.jpg",
+            "url": "Dragon Ball Super 131 Videos"
+          },
+          {
+            "name": "Ascendance of a Bookworm",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/a8b461c1521ac654ada101b64b0f04fc1586302236_thumb.jpg",
+            "url": "Ascendance of a Bookworm 53 Videos"
+          },
+          {
+            "name": "Digimon Adventure: (2020)",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/4dd9e4a8c791dad5b1620a15de09be461586045586_thumb.jpg",
+            "url": "Digimon Adventure: (2020) 11 Videos"
+          },
+          {
+            "name": "KONOSUBA -God's blessing on this wonderful world!",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/7ba81b1709a87f5ca8930229b10029a61484092235_thumb.jpg",
+            "url": "KONOSUBA -God's blessing on this wonderful world! 89 Videos"
+          },
+          {
+            "name": "Mr Love: Queen's Choice",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/668a5ab4ce5990e620dffc238a24af181594711292_thumb.jpg",
+            "url": "Mr Love: Queen's Choice 6 Videos"
+          },
+          {
+            "name": "Gintama",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/54c15675670ba44c1f98c3e11ba0cddf1515030877_thumb.jpg",
+            "url": "Gintama 433 Videos"
+          },
+          {
+            "name": "Overlord",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/9e1a4846885dc3994414b608f80490781531935326_thumb.jpg",
+            "url": "Overlord 39 Videos"
+          },
+          {
+            "name": "A Certain Scientific Railgun",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire4/736dc030956a8f0b90aab26f396e6c1e1594243278_thumb.jpg",
+            "url": "A Certain Scientific Railgun 67 Videos"
+          },
+          {
+            "name": "Re:ZERO -Starting Life in Another World-",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/b83caa7d52b1a053830ee3061d736c741594318665_small.jpg",
+            "url": "Re:ZERO -Starting Life in Another World- 123 Videos"
+          },
+          {
+            "name": "Ahiru no Sora",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/c202f485b6c4a286e8867bb9bbb782361585936040_small.jpg",
+            "url": "Ahiru no Sora 44 Videos"
+          },
+          {
+            "name": "Marmalade Boy",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/b062a3850315a43ae2eb1389541acb761581484715_small.jpg",
+            "url": "Marmalade Boy 76 Videos"
+          },
+          {
+            "name": "GIBIATE",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire3/7fac94c2cef636c82df61d46a0b46b4f1594720017_small.jpg",
+            "url": "GIBIATE 6 Videos"
+          },
+          {
+            "name": "The Idol Master",
+            "photo": "https://img1.ak.crunchyroll.com/i/spire2/6b3b9443ccb89ef959b8404e2e9957911311206564_small.png",
+            "url": "The Idol Master 25 Videos"
+          }
+        ],
+        "organization": [
+          {
+            "name": "Crunchyroll",
+            "url": "https://www.crunchyroll.com/"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "theme-color": "#ffffff",
+            "og:type": "tv_show",
+            "og:site_name": "Crunchyroll",
+            "viewport": "width=device-width, initial-scale=1",
+            "title": "Free Anime Streaming Online - Watch on Crunchyroll",
+            "fb:pages": "6047074339",
+            "og:description": "Free Anime Streaming Online - Watch on Crunchyroll"
+          }
+        ],
+        "moviereview": [
+          {
+            "name": "One Piece"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "url": "Shows"
+          }
+        ],
+        "searchaction": [
+          {
+            "query-input": "name=q",
+            "target": "https://www.crunchyroll.com/search?q={q}"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The 25 Essential Anime Series To Watch Now \u003c\u003c Rotten Tomatoes ...",
+      "htmlTitle": "The 25 Essential \u003cb\u003eAnime\u003c/b\u003e Series To Watch Now &lt;&lt; Rotten Tomatoes ...",
+      "link": "https://editorial.rottentomatoes.com/article/essential-anime-series/",
+      "displayLink": "editorial.rottentomatoes.com",
+      "snippet": "1 day ago ... It's a good time to be an anime fan, what with multiple dedicated streaming \nservices (choose among Crunchyroll, Funimation, HiDive and more), ...",
+      "htmlSnippet": "1 day ago \u003cb\u003e...\u003c/b\u003e It&#39;s a good time to be an \u003cb\u003eanime\u003c/b\u003e fan, what with multiple dedicated streaming \u003cbr\u003e\nservices (choose among Crunchyroll, Funimation, HiDive and more),&nbsp;...",
+      "cacheId": "aylk2HW3zUQJ",
+      "formattedUrl": "https://editorial.rottentomatoes.com/article/essential-anime-series/",
+      "htmlFormattedUrl": "https://editorial.rottentomatoes.com/article/essential-\u003cb\u003eanime\u003c/b\u003e-series/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7yh0ZwHO0SJszfufvQc53lRXn2PsixCaS8yABQ9YaVVrrwRFRA5g2-e8",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2020/06/25121201/600Anime1.jpg",
+            "cloudfront-viewer-country": "US",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "The 25 Essential Anime Series To Watch Now",
+            "og.description": "From early Miyazaki to Neon Genesis Evangelion and through Attack on Titan and JoJo's, here's the anime from the last five decades that made an impact.",
+            "og:title": "The 25 Essential Anime Series To Watch Now",
+            "twitter:image": "https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2020/06/25121201/600Anime1.jpg",
+            "fb:app_id": "326803741017",
+            "twitter:site": "@rottentomatoes",
+            "editorialid": "181607",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "From early Miyazaki to Neon Genesis Evangelion and through Attack on Titan and JoJo's, here's the anime from the last five decades that made an impact.",
+            "og:url": "https://editorial.rottentomatoes.com/article/essential-anime-series/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://s3-us-west-2.amazonaws.com/flx-editorial-wordpress/wp-content/uploads/2020/06/25121201/600Anime1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Watch Anime for Free - VIZ",
+      "htmlTitle": "Watch Anime for Free - VIZ",
+      "link": "https://www.viz.com/watch",
+      "displayLink": "www.viz.com",
+      "snippet": "Watch. New series, classic favorites and everything in between. Stream free or \ncreate your own collection! Stream free anime now! Dubbed & Subtitled; Only ...",
+      "htmlSnippet": "Watch. New series, classic favorites and everything in between. Stream free or \u003cbr\u003e\ncreate your own collection! Stream free \u003cb\u003eanime\u003c/b\u003e now! Dubbed &amp; Subtitled; Only&nbsp;...",
+      "cacheId": "6yzwf08j4hcJ",
+      "formattedUrl": "https://www.viz.com/watch",
+      "htmlFormattedUrl": "https://www.viz.com/watch",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJat1eu3t_FYZcV-PCK7t93jKFmGt0Ho-PHoZ4tSRvnMYs7FS6-lNuxcts",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://dw9to29mmj727.cloudfront.net/properties/2016/VIZMedia-share-tmp-600x314.png",
+            "msapplication-config": "/favicon/browserconfig.xml?v=47MPqANpyj",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "theme-color": "#ff0000",
+            "twitter:site": "@VIZMedia",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:title": "VIZ: Watch Anime for Free",
+            "og:url": "https://www.viz.com/watch",
+            "og:description": "New series, classic favorites and everything in between. Stream free or create your own collection!",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dw9to29mmj727.cloudfront.net/properties/2016/VIZMedia-share-tmp-600x314.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "anime.js • JavaScript animation engine",
+      "htmlTitle": "\u003cb\u003eanime\u003c/b\u003e.js • JavaScript animation engine",
+      "link": "https://animejs.com/",
+      "displayLink": "animejs.com",
+      "snippet": "Anime.js ( /ˈæn.ə.meɪ/ ) is a lightweight JavaScript animation library with a \nsimple, yet powerful API. It works with CSS properties, SVG, DOM attributes and ...",
+      "htmlSnippet": "\u003cb\u003eAnime\u003c/b\u003e.js ( /ˈæn.ə.meɪ/ ) is a lightweight JavaScript animation library with a \u003cbr\u003e\nsimple, yet powerful API. It works with CSS properties, SVG, DOM attributes and&nbsp;...",
+      "cacheId": "tOoxLhxpAkoJ",
+      "formattedUrl": "https://animejs.com/",
+      "htmlFormattedUrl": "https://\u003cb\u003eanime\u003c/b\u003ejs.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQQdjjj3KicWj6uYqwPBcBVDl_0oOCjrsF0GM0u88Bnd2nl95FobEutF2xk",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://animejs.com/documentation/assets/img/social-media-image.png",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "anime.js",
+            "twitter:site": "@juliangarnier",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "Javascript animation engine",
+            "og:title": "anime.js",
+            "og:url": "https://animejs.com",
+            "og:description": "Javascript animation engine",
+            "twitter:creator": "@juliangarnier",
+            "twitter:image": "https://animejs.com/documentation/assets/img/social-media-image.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://animejs.com/documentation/assets/img/social-media-image.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Anime Boston - The Northeast's Largest Anime Convention",
+      "htmlTitle": "\u003cb\u003eAnime\u003c/b\u003e Boston - The Northeast&#39;s Largest \u003cb\u003eAnime\u003c/b\u003e Convention",
+      "link": "https://www.animeboston.com/",
+      "displayLink": "www.animeboston.com",
+      "snippet": "Black Lives Matter. By: Kristen Date: June 22, 2020 12:00 AM ESTA brief \nstatement from Anime Boston leadership.",
+      "htmlSnippet": "Black Lives Matter. By: Kristen Date: June 22, 2020 12:00 AM ESTA brief \u003cbr\u003e\nstatement from \u003cb\u003eAnime\u003c/b\u003e Boston leadership.",
+      "cacheId": "MNyrp1sexZgJ",
+      "formattedUrl": "https://www.animeboston.com/",
+      "htmlFormattedUrl": "https://www.\u003cb\u003eanime\u003c/b\u003eboston.com/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3iJiX6cYlfIkK984h2uyhLc3CBn1TdDW9ZFkD4dchusv4hBfp8GuT2nCS",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://gallery.animeboston.com/img/s/v-10/p3745320379-2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "juliangarnier/anime: JavaScript animation engine - GitHub",
+      "htmlTitle": "juliangarnier/anime: JavaScript animation engine - GitHub",
+      "link": "https://github.com/juliangarnier/anime",
+      "displayLink": "github.com",
+      "snippet": "Anime.js ( /ˈæn.ə.meɪ/ ) is a lightweight JavaScript animation library with a \nsimple, yet powerful API. It works with CSS properties, SVG, DOM attributes and ...",
+      "htmlSnippet": "\u003cb\u003eAnime\u003c/b\u003e.js ( /ˈæn.ə.meɪ/ ) is a lightweight JavaScript animation library with a \u003cbr\u003e\nsimple, yet powerful API. It works with CSS properties, SVG, DOM attributes and&nbsp;...",
+      "cacheId": "5bqplOTRCQsJ",
+      "formattedUrl": "https://github.com/juliangarnier/anime",
+      "htmlFormattedUrl": "https://github.com/juliangarnier/\u003cb\u003eanime\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTr0UH_Fq-9jyEEt0YJT9nK5s4KCyZdw6NaEAspnZLP4CG9HTP-jHUMpdj6",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "softwaresourcecode": [
+          {
+            "license": "LICENSE.md",
+            "author": "juliangarnier",
+            "name": "anime",
+            "text": "anime.js JavaScript animation engine | animejs.com Anime.js (/ˈæn.ə.meɪ/) is a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG,..."
+          }
+        ],
+        "metatags": [
+          {
+            "octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown": "false",
+            "apple-itunes-app": "app-id=1477376905",
+            "og:image": "https://repository-images.githubusercontent.com/53809090/8a970e80-7e36-11e9-9c11-e5cbc9ca752b",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#1e2327",
+            "og:site_name": "GitHub",
+            "octolytics-event-url": "https://collector.githubapp.com/github-external/browser_event",
+            "hovercard-subject-tag": "repository:53809090",
+            "html-safe-nonce": "ac8b5f068c9d16e5cb4f6e2aadf44aeeea022808",
+            "expected-hostname": "github.com",
+            "octolytics-app-id": "github",
+            "og:description": "JavaScript animation engine. Contribute to juliangarnier/anime development by creating an account on GitHub.",
+            "browser-errors-url": "https://api.github.com/_private/browser/errors",
+            "dimension10": "Responsive",
+            "octolytics-dimension-user_login": "juliangarnier",
+            "hostname": "github.com",
+            "twitter:site": "@github",
+            "octolytics-dimension-ga_id": "1216365909.1597968000",
+            "google-analytics": "UA-3769691-2",
+            "browser-stats-url": "https://api.github.com/_private/browser/stats",
+            "visitor-payload": "eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiI4OUY3OjE5QTQ6MTBCMjcxNjoxOEU1NUQyOjVGM0Y0OEJFIiwidmlzaXRvcl9pZCI6IjkxNDM4OTA2NDQ5ODMzMDIzMzYiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==",
+            "github-keyboard-shortcuts": "repository",
+            "octolytics-dimension-repository_id": "53809090",
+            "octolytics-dimension-repository_network_root_nwo": "juliangarnier/anime",
+            "enabled-features": "MARKETPLACE_PENDING_INSTALLATIONS",
+            "twitter:title": "juliangarnier/anime",
+            "og:type": "object",
+            "og:title": "juliangarnier/anime",
+            "visitor-hmac": "157c7ee5b4e6da071594b9cbd19b21d7ee3e1ce40a068838a310cd8dbb759fae",
+            "request-id": "89F7:19A4:10B2716:18E55D2:5F3F48BE",
+            "analytics-location": "/\u003cuser-name\u003e/\u003crepo-name\u003e",
+            "octolytics-dimension-repository_is_fork": "false",
+            "go-import": "github.com/juliangarnier/anime git https://github.com/juliangarnier/anime.git",
+            "twitter:image:src": "https://repository-images.githubusercontent.com/53809090/8a970e80-7e36-11e9-9c11-e5cbc9ca752b",
+            "octolytics-dimension-user_id": "1268691",
+            "octolytics-dimension-repository_public": "true",
+            "fb:app_id": "1401488693436528",
+            "octolytics-dimension-repository_network_root_id": "53809090",
+            "octolytics-dimension-repository_nwo": "juliangarnier/anime",
+            "viewport": "width=device-width",
+            "twitter:description": "JavaScript animation engine. Contribute to juliangarnier/anime development by creating an account on GitHub.",
+            "dimension1": "Logged Out",
+            "octolytics-host": "collector.githubapp.com",
+            "og:url": "https://github.com/juliangarnier/anime",
+            "dimension3": "mobile"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://repository-images.githubusercontent.com/53809090/8a970e80-7e36-11e9-9c11-e5cbc9ca752b"
+          }
+        ]
+      }
+    }
+  ]
+}
